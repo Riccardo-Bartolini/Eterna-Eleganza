@@ -54,8 +54,8 @@ This repository preserves the university submission. Setup requires manual datab
 ### Preparation
 
 ```bash
-git clone https://github.com/Riccardo-Bartolini/web-application-project.git
-cd web-application-project/Ecommerce
+git clone https://github.com/Riccardo-Bartolini/Eterna-Eleganza.git
+cd Eterna-Eleganza/Ecommerce
 composer install
 ```
 
