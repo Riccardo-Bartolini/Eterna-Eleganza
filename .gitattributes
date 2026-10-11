@@ -1,0 +1,2 @@
+# Keep third-party dependencies out of repository language statistics.
+Ecommerce/vendor/** linguist-vendored
